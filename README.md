@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TomRossner
-- 👀 I’m currently interested in front-end
-- 🌱 I’m currently learning MongoDB
-- 💞️ I’m looking to collaborate on small projects
+- 👀 I’m a Full Stack Developer
+- 🌱 I’m currently working on a Project Management app
 - 📫 Send me a message!
 
 <!---
