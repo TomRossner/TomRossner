@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomRossner
 - 👀 I’m a Full Stack Developer
-- 🌱 I’m currently working on a Video Conferencing app.
+- 🌱 I’m currently working on ProjectMania v2!
 - 📫 Send me a message!
 <!---
 TomRossner/TomRossner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
