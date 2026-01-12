@@ -24,18 +24,6 @@ I'm a **Full Stack Developer** passionate about building desktop applications an
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomRossner&show_icons=true&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomRossner&layout=compact&theme=tokyonight&hide_border=true)
-  
-</div>
-
----
-
 ### 🔥 Featured Projects
 
 #### 🎬 [Strimz](https://github.com/TomRossner/strimz)
