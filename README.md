@@ -49,15 +49,6 @@ Wordle game clone built with React, TypeScript and CSS
 
 ---
 
-### 📈 GitHub Streak
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=TomRossner&theme=tokyonight&hide_border=true)
-  
-</div>
-
----
 
 ### 🤝 Connect With Me
 
