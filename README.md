@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomRossner
 - 👀 I’m a Full Stack Developer
-- 🌱 I’m currently working on ProjectMania v2!
+- 🌱 I’m currently working on Strimz! A streaming desktop app :O
 - 📫 Send me a message!
 <!---
 TomRossner/TomRossner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
